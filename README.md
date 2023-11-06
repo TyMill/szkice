@@ -30,7 +30,7 @@ pip install pandas
 ```
 
 ## Author
-[Your Name or Organization]
+Tymoteusz Miller
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
